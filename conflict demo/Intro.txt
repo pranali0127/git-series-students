@@ -4,4 +4,8 @@ NAME :Pranali Mate
 EDUCATION : 3rd year IT student YCCE
 SKILLS : HTML,CSS,SQL
 Programming languages : C,C++, CORE JAVA , PYTHON
+<<<<<<< HEAD
 LANGUAGES: spanish, korean , english, hindi, marathi
+=======
+LANGUAGES: spanish, korean , english, hindi, marathi
+>>>>>>> gitnew/text_files
