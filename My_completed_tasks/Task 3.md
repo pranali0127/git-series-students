@@ -1,3 +1,5 @@
+# Task 3
+
 In Day 3 task of Git & Github series , i have done the following task :
 
 Now you need to do the following things in order to complete this task as
@@ -18,3 +20,4 @@ Once you have done it, again do the following:
 2. Make some changes using that branch.
 3. Commit the changes and push that newly created branch to github.
 4. Once done, make a PR with this newly created branch.
+
