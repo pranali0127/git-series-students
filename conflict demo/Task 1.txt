@@ -1,3 +1,5 @@
+This is my Day 1 task 
+
 Aim of the task:
 Setting up Git and Github environment
 
