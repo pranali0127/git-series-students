@@ -3,3 +3,6 @@ https://github.com/pranali0127/git-series-students/pull/1
 
 mod operation: https://github.com/renuka142/git-series-students/pull/4
 multiply_operation: https://github.com/madhucharan/git-series-students/pull/1
+
+- Power operation by Madhu 
+- https://github.com/codewayy/git-series-students/pull/37
