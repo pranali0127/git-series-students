@@ -1,6 +1,6 @@
-#function for divide operation
-
-def divide(a,b):
+#function for divide operation 
+def  calc_divide(a,b):
     c = a/b
     return c
-    
+
+
